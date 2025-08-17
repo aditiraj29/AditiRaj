@@ -1,18 +1,16 @@
 # Hey there 👋, I am Aditi Raj
 
 ## 👩‍💻 About Me
-A Tech-Savvy Professional specializing in **Data Science** and **Web Development**, with expertise in **Machine Learning** and **Data Visualization**.  
-Passionate about building **data-driven solutions** and contributing to innovative projects.  
-Also an aspiring **UI/UX Designer** 🎨.  
+A Tech-Savvy Professional specializing in **Data Science** and **Web Development**, with expertise in **Machine Learning** and **Data Visualization**. Passionate about building **data-driven solutions** and contributing to innovative projects. An aspiring **UI/UX Designer** 🎨.  
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.aditiraj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-raj-2903ar)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yumiikkoo) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/aditifaith12)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiraj2903@gmail.com)  
 
 ---
 
