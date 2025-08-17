@@ -1,9 +1,11 @@
 # Hey there 👋, I am Aditi Raj
 
 ## 👩‍💻 About Me
-A Tech-Savvy Professional specializing in **Data Science** and **Web Development**, with expertise in **Machine Learning** and **Data Visualization**. Passionate about building **data-driven solutions** and contributing to innovative projects. An aspiring **UI/UX Designer** 🎨.  
+- 💡 I am a Tech-Savvy Professional specializing in **Data Science** and **Web Development**  
+- 🤖 Skilled in **Machine Learning** and **Data Visualization**. 
+- 🚀 Passionate about building **data-driven solutions** and contributing to innovative projects.
+- 🎨 An aspiring **UI/UX Designer** with a creative mindset. 
 
----
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.aditiraj)  
